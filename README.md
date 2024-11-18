@@ -97,7 +97,7 @@ The global AI market is projected to grow from $515.31 billion in 2023 to $2.74 
 - **Reinforcement Learning**: For dynamic decision-making in specialized industries (Silver et al., 2016).
 
 ### If I Were To Advise
-- **Intergate More In Life**: As I use OpenAI. I wish It would remember every conversation we've had. It should be more compatible and act more like a hleper/buddy. When I say this, I think of Cortana with Master Cheif in Halo.
+- **Intergate More In Life**: As I use OpenAI. I wish It would remember every conversation we've had. It should be more compatible and act more like a helper/buddy. When I say this, I think of Cortana with Master Cheif in Halo.
 ---
 
 ## References
